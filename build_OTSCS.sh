@@ -1,0 +1,1 @@
+g++ baseline.cpp temporal_graph.cpp commonfunctions.cpp -o OTSCS -Ofast

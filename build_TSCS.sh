@@ -1,0 +1,1 @@
+g++ main.cpp Graph.cpp mgraph.cpp temporal_graph.cpp ds.cpp commonfunctions.cpp -o TSCS -Ofast -std=c++17 -w
